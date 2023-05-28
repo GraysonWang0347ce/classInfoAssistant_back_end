@@ -1,0 +1,26 @@
+{
+  "name": "ciaser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bcryptjs": "^2.4.3",
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^12.0.0",
+    "koa-static": "^5.0.0",
+    "lodash": "^4.17.21",
+    "mariadb": "^3.0.1",
+    "mysql2": "^2.3.3",
+    "pm2": "^5.2.0",
+    "require-directory": "^2.1.1",
+    "sequelize": "^6.21.4",
+    "validator": "^13.7.0"
+  }
+}
